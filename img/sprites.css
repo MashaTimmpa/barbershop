@@ -1,0 +1,22 @@
+.icon-fb, .icon-inst, .icon-vk{
+	background: url(sprites.png) no-repeat;
+}
+
+.icon-fb{
+	background-position: -79px 0;
+	width: 12px;
+	height: 26px;
+}
+
+.icon-inst{
+	background-position: -126px 0;
+	width: 21px;
+	height: 21px;
+}
+
+.icon-vk{
+	background-position: -13px -16px ;
+	width: 26px;
+	height: 14px;
+}
+
